@@ -1,0 +1,10 @@
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.MortgageCal.resources
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab3\Lerner_Lab3\MortgageCalculator\obj\Debug\MortgageCalculator.csprojAssemblyReference.cache

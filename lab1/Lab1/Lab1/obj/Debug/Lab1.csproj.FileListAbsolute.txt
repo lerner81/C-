@@ -1,0 +1,7 @@
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab1\Lab1\Lab1\obj\Debug\Lab1.pdb

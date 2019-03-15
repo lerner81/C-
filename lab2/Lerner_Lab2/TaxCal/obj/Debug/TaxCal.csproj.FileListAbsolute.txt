@@ -1,0 +1,7 @@
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\bin\Debug\TaxCal.exe.config
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\bin\Debug\TaxCal.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\bin\Debug\TaxCal.pdb
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\obj\Debug\TaxCal.csprojAssemblyReference.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\obj\Debug\TaxCal.csproj.CoreCompileInputs.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\obj\Debug\TaxCal.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab2\Lerner_Lab2\TaxCal\obj\Debug\TaxCal.pdb
